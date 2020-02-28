@@ -4,7 +4,7 @@
                   to right bottom,
                   rgba($color-primary-light, 0.8),
                   rgba($color-primary-dark, 0.8)),
-  url(../img/code.jpg);
+  url(../img/code-small.jpg);
   background-size: cover;
   background-position: top;
   position: relative;
@@ -23,7 +23,7 @@
                           to right bottom,
                           rgba($color-primary-light, 0.8),
                           rgba($color-primary-dark, 0.8)),
-          url(../img/code.jpg);
+          url(../img/code-small.jpg);
     }
 
     @include respond(phone){
