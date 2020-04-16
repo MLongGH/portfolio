@@ -741,6 +741,10 @@ body {
       .footer__copyright {
         width: 100%;
         float: none; } }
+  .contact__link:link, .contact__link:visited {
+    text-decoration: none;
+    color: #777777;
+  }
 
 .row {
   max-width: 114rem;
