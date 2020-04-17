@@ -1,9 +1,0 @@
-to start the project
-on one terminal, run:
-$npm run compile:sass
-
-open new terminal, run:
-$live-server
-
-running locally
-$npm start
